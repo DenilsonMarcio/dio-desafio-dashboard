@@ -20,7 +20,7 @@ O painel criado no Excel exibe métricas importantes, como:
 
 ## 🚀 Como Utilizar  
 
-1. Baixe o arquivo **([Dashboard_Vendas_Xbox.xlsx](https://github.com/DenilsonMarcio/dio-desafio-dashboard/blob/master/dio-desafio-dashboard/dashboard_xbox.xlsx))**  
+1. Baixe o arquivo **[Dashboard_Vendas_Xbox.xlsx](https://github.com/DenilsonMarcio/dio-desafio-dashboard/blob/master/dio-desafio-dashboard/dashboard_xbox.xlsx)**  
 2. Abra o arquivo no **Microsoft Excel**  
 3. Utilize os filtros interativos para explorar os dados  
 
